@@ -13,28 +13,23 @@ namespace RPG.Dialogue
         [SerializeField] string text;
         [SerializeField] List<string> children = new List<string>();
         [SerializeField] Rect rect = new Rect(0, 0, 200, 100);
+        [SerializeField] string onEnterAction;
+        [SerializeField] string onExitAction;
 
         #region Data Accessors
-        public string Text
-        {
-            get { return text; }
-        }
+        public string Text => text;
 
-        public List<string> Children
-        {
-            get { return children; }
-        }
-        
+        public List<string> Children => children;
 
-        public Rect Rect
-        {
-            get { return rect; }
-        }
 
-        public bool IsPlayerSpeaking
-        {
-            get { return isPlayerSpeaking; }
-        }
+        public Rect Rect => rect;
+
+        public bool IsPlayerSpeaking => isPlayerSpeaking;
+
+        public string OnEnterAction => onEnterAction;
+
+        public string OnExitAction => onExitAction;
+
 
         public void SetText(string text)
         {

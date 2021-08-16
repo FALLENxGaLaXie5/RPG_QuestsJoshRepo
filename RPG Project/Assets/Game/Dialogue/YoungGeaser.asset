@@ -19,12 +19,10 @@ MonoBehaviour:
   - aa31a50c-e308-4580-8725-cc6aefd69a91
   rect:
     serializedVersion: 2
-    x: 1122
-    y: 487
+    x: 977
+    y: 505
     width: 200
     height: 100
-  onEnterAction: 
-  onExitAction: 
 --- !u!114 &-4373128988548180341
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42,12 +40,10 @@ MonoBehaviour:
   children: []
   rect:
     serializedVersion: 2
-    x: 1511
-    y: 471
+    x: 1279
+    y: 412
     width: 200
     height: 100
-  onEnterAction: 
-  onExitAction: TestObjective
 --- !u!114 &-2497285934955560604
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -69,8 +65,6 @@ MonoBehaviour:
     y: 344
     width: 200
     height: 100
-  onEnterAction: 
-  onExitAction: 
 --- !u!114 &-2459044388188341834
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -88,12 +82,10 @@ MonoBehaviour:
   children: []
   rect:
     serializedVersion: 2
-    x: 1342
-    y: 641
+    x: 1279
+    y: 633
     width: 200
     height: 100
-  onEnterAction: 
-  onExitAction: 
 --- !u!114 &-2457295720119646926
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -107,7 +99,7 @@ MonoBehaviour:
   m_Name: 8f9e2164-381e-4e51-aac4-3e616c2d239b
   m_EditorClassIdentifier: 
   isPlayerSpeaking: 0
-  text: Ho ho ho MERRRRYYYY CHRISTMASSS!!
+  text: Whatt's up big boy?
   children:
   - 1bebfc11-c228-44d8-afd4-1e5286626deb
   - 0d015161-29b4-49a8-b604-e6eab1339075
@@ -119,8 +111,6 @@ MonoBehaviour:
     y: 274
     width: 200
     height: 100
-  onEnterAction: Test Root Entry
-  onExitAction: 
 --- !u!114 &-2324578660705295578
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -143,8 +133,6 @@ MonoBehaviour:
     y: 32
     width: 200
     height: 100
-  onEnterAction: Test Entry Action
-  onExitAction: 
 --- !u!114 &-1285311228794375125
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -162,12 +150,10 @@ MonoBehaviour:
   children: []
   rect:
     serializedVersion: 2
-    x: 660
-    y: 243
+    x: 720
+    y: 204
     width: 200
     height: 100
-  onEnterAction: 
-  onExitAction: 
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -178,7 +164,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7b1c0d5eb37d6444fb770626b115f9bc, type: 3}
-  m_Name: OldGeaser
+  m_Name: YoungGeaser
   m_EditorClassIdentifier: 
   newNodeOffset: {x: 50, y: 0}
   nodes:
@@ -208,12 +194,10 @@ MonoBehaviour:
   children: []
   rect:
     serializedVersion: 2
-    x: 1073
+    x: 1074
     y: 19
     width: 200
     height: 100
-  onEnterAction: 
-  onExitAction: Attack
 --- !u!114 &9153314890390767144
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -236,5 +220,3 @@ MonoBehaviour:
     y: 505
     width: 200
     height: 100
-  onEnterAction: 
-  onExitAction: 
